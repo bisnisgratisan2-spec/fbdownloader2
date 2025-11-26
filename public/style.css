@@ -1,0 +1,5 @@
+body { font-family: Arial; background:#f7f7f8; padding:40px; }
+.container { max-width:600px; margin:0 auto; background:#fff; padding:20px; border-radius:8px; }
+input, button { width:100%; padding:10px; margin-top:10px; }
+button { background:#1877F2; color:white; border:none; border-radius:5px; }
+.hidden { display:none; }
